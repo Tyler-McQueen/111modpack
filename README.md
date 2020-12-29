@@ -1,8 +1,16 @@
-# 111modpack
+# 111 ModPack
 111's Adventure Modpack
 
-# List Of Mods
+## Installation Instructions
+1. Go to [CurseForge](https://curseforge.overwolf.com/) and download the client for your operating system.
+2. After installing, open and navigate to the Minecraft window in CurseForge.
+3. Download the .zip file in this repo and save it to your computer.
+4. In the upper right corner click on "Create Custom Profile"
+5. In the "Create Profile" window that pops up click on the "import" button that should be underlined.
+6. In the popup window navagate to the previously saved .zip file and click "Open"
+7. The modpack should now be installing in CurseForge (Note: If nothing appears to happen right away give it a minute sometimes it takes a second to show up.)
 
+# List Of Mods
 ## Added Content
 - **davincis-vessels**
   - Modular multi-block ships. All blocks touching the main core block, the Helm, will be attached to the ship and will move smoothly as a single unit. ... Ships can be made to work in water, the air, or even on the ground of the world.
